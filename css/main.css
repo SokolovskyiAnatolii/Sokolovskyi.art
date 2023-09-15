@@ -3248,11 +3248,9 @@ body.mobile-nav-active #mobile-nav-toggle {
 ################
 */
 .footer-area {
-  background: #04091e; }
+  background: #000000; }
   .footer-area h6 {
-    margin-bottom: 25px;
-    font-size: 18px;
-    font-weight: 600;
+    font-size: 15px;
     color: #ffffff; }
 
 .copy-right-text i,
@@ -3268,7 +3266,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   .footer-social a:hover i {
     color: #f81c1c; }
 .footer-social i {
-  color: #cccccc;
+  color: #ffffff;
   -webkit-transition: all 0.3s ease 0s;
   -moz-transition: all 0.3s ease 0s;
   -o-transition: all 0.3s ease 0s;
