@@ -2204,7 +2204,7 @@ body.mobile-nav-active #mobile-nav-toggle {
     left: 0px;
     bottom: 0px;
     right: 0px;
-    background: rgba(0, 1, 8, 0.7); }
+    background: rgb(0, 0, 0); }
 
 .banner-content {
   text-align: left; }
