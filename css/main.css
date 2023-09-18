@@ -2193,12 +2193,12 @@ body.mobile-nav-active #mobile-nav-toggle {
         .home-banner-area .social-icons ul li a i {
           margin-right: 8px; }
 
-.banner-area-index {
-  background: url(/img/index-banner.jpg),rgb(0, 0, 0) no-repeat;
+.banner-area {
+  background: url(../img/index-banner.jpg),#000000; no-repeat;
   background-size: cover;
   position: relative; }
   .banner-area-commercial {
-  background: url(/img/commercial-banner.jpg),rgb(0, 0, 0) no-repeat;
+  background: url(../img/commercial-banner.jpg),#000000; no-repeat;
   background-size: cover;
   position: relative; }
 
